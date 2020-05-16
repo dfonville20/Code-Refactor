@@ -1,6 +1,6 @@
 # Code-Refactor
 ```
-Received request to modify existing webpage
+Received request to modify existing webpage to add accessibility functionality and update existing HTML.
 
 ## User Story
 
